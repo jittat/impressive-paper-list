@@ -53,22 +53,22 @@ If you know of any outstanding papers that should be included, please feel free 
 
 ## 2022
 
-2022 FOCS - best paper award: Aaron Bernstein, Danupon Nanongkai, Christian Wulff-Nilsen: **"Negative-Weight Single-Source Shortest Paths in Near-Linear Time"**
+2022 FOCS - best paper award: Aaron Bernstein, Danupon Nanongkai, Christian Wulff-Nilsen: **"Negative-Weight Single-Source Shortest Paths in Near-Linear Time"** [[arxiv](https://arxiv.org/abs/2203.03456)] [[paper](https://dl.acm.org/doi/10.1145/3742890)]
 
-2022 EMNLP - best short paper award: Jitkapat Sawatphol,  Nonthakit Chaiwong, Can Udomcharoenchaikit, Sarana Nutanong. **"Topic-Regularized Authorship Representation Learning"**
+2022 EMNLP - best short paper award: Jitkapat Sawatphol,  Nonthakit Chaiwong, Can Udomcharoenchaikit, Sarana Nutanong. **"Topic-Regularized Authorship Representation Learning"** [[pdf](https://aclanthology.org/2022.emnlp-main.70.pdf)] [[paper](https://aclanthology.org/2022.emnlp-main.70/)]
 
-2022 CHI - best paper: Jochen Görtler, Fred Hohman, Dominik Moritz, Kanit Wongsuphasawat, Donghao Ren, Rahul Nair, Marc Kirchner, Kayur Patel. **"Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels"**
+2022 CHI - best paper: Jochen Görtler, Fred Hohman, Dominik Moritz, Kanit Wongsuphasawat, Donghao Ren, Rahul Nair, Marc Kirchner, Kayur Patel. **"Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels"** [[arxiv](https://arxiv.org/abs/2110.12536)] [[paper](https://dl.acm.org/doi/10.1145/3491102.3501823)]
 
 ## 2023
 
-2023 SODA - Sayan Bhattacharya, Peter Kiss, Thatchaphol Saranurak, David Wajc: **"Dynamic Matching with Better-than-2 Approximation in Polylogarithmic Update Time"**
+2023 SODA - Sayan Bhattacharya, Peter Kiss, Thatchaphol Saranurak, David Wajc: **"Dynamic Matching with Better-than-2 Approximation in Polylogarithmic Update Time"** [[arxiv](https://arxiv.org/abs/2207.07438)] [[paper](https://dl.acm.org/doi/10.1145/3679009)]
 
-2023 CHI - Best paper award: Yixuan Zhang, Joseph D Gaggiano, Nutchanon Yongsatianchot, Nurul M Suhaimi, Miso Kim, Yifan Sun, Jacqueline Griffin, Andrea G Parker. **"What Do We Mean When We Talk about Trust in Social Media? A Systematic Review"**
+2023 CHI - Best paper award: Yixuan Zhang, Joseph D Gaggiano, Nutchanon Yongsatianchot, Nurul M Suhaimi, Miso Kim, Yifan Sun, Jacqueline Griffin, Andrea G Parker. **"What Do We Mean When We Talk about Trust in Social Media? A Systematic Review"** [[arxiv](https://arxiv.org/abs/2302.03671)] [[paper](https://dl.acm.org/doi/10.1145/3544548.3581019)]
 
-2023 IEEE Transactions on Software Engineering (TSE) - A Runners-up Best Paper Award: Chanathip Pornprasit, and Chakkrit Tantithamthavorn. **"DeepLineDP: Towards a Deep Learning Approach for Line-Level Defect Prediction"**
+2023 IEEE Transactions on Software Engineering (TSE) - A Runners-up Best Paper Award: Chanathip Pornprasit, and Chakkrit Tantithamthavorn. **"DeepLineDP: Towards a Deep Learning Approach for Line-Level Defect Prediction"** [[paper](https://ieeexplore.ieee.org/document/9689967)]
 
 ## 2025
 
 2025 IROS - Finalist best paper award on robot mechanism and design. Pongsiri Borijindakul, Ali Khaheshi, Theerawath Phetpoon, Hamed Rajabi, Poramate Manoonpong. **A Ribbed Hybrid Rigid-Flexible Tail with Graded Stiffness and Anisotropic Friction for Enhanced Robot Locomotion and Fall Damage Prevention**
 
-2025 TCSE SANER - Most Influential Paper Award: Patanamon Thongtanunam, Chakkrit Tantithamthavorn, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, and Ken-ichi Matsumoto. **"Who should review my code? A file location-based code-reviewer recommendation approach for Modern Code Review"**
+2025 TCSE SANER - Most Influential Paper Award: Patanamon Thongtanunam, Chakkrit Tantithamthavorn, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, and Ken-ichi Matsumoto. **"Who should review my code? A file location-based code-reviewer recommendation approach for Modern Code Review"** [[pdf](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/archive/978/978.pdf)] [[paper](https://ieeexplore.ieee.org/document/7081824)]
