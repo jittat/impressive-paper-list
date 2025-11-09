@@ -31,25 +31,25 @@ If you know of any outstanding papers that should be included, please feel free 
 
 ## 2018 
 
-2018 L@S - best paper award: Sorathan Chaturapruek, Thomas S. Dee, Ramesh Johari, René F. Kizilcec, and Mitchell L. Stevens. "How a data-driven course planning tool affects college students' GPA: evidence from two field experiments"
+2018 L@S - best paper award: Sorathan Chaturapruek, Thomas S. Dee, Ramesh Johari, René F. Kizilcec, and Mitchell L. Stevens. "How a data-driven course planning tool affects college students' GPA: evidence from two field experiments" [[pdf](https://cepa.stanford.edu/sites/default/files/wp18-10-201805.pdf)] [[paper](https://dl.acm.org/doi/10.1145/3231644.3231668)]
 
 ## 2019
 
-2019 NSDI - best paper award: Mingyang Zhang, Radhika Niranjan Mysore, Sucha Supittayapornpong, Ramesh Govindan "Understanding Lifecycle Management Complexity of Datacenter Topologies"
+2019 NSDI - best paper award: Mingyang Zhang, Radhika Niranjan Mysore, Sucha Supittayapornpong, Ramesh Govindan "Understanding Lifecycle Management Complexity of Datacenter Topologies"  [[paper](https://dl.acm.org/doi/abs/10.5555/3323234.3323255)]  [[nsdi](https://www.usenix.org/conference/nsdi19/presentation/zhang)] [[pdf](https://www.usenix.org/system/files/nsdi19-zhang.pdf)]
 
 ## 2021
 
-2021 IJCAI - distinguished paper award: Edith Elkind, Erel Segal-Halevi, and Warut Suksompong. "Keep Your Distance: Land Division With Separation"
+2021 IJCAI - distinguished paper award: Edith Elkind, Erel Segal-Halevi, and Warut Suksompong. "Keep Your Distance: Land Division With Separation" [[arxiv](https://arxiv.org/abs/2105.06669)]
 
-2021 WINE - best student paper award: Florian Brandl, Felix Brandt, Matthias Greger, Dominik Peters, Christian Stricker, and Warut Suksompong. "Funding Public Projects: A Case for the Nash Product Rule"
+2021 WINE - best student paper award: Florian Brandl, Felix Brandt, Matthias Greger, Dominik Peters, Christian Stricker, and Warut Suksompong. "Funding Public Projects: A Case for the Nash Product Rule" [[arxiv](https://arxiv.org/abs/2005.07997)] [[journal](https://www.sciencedirect.com/science/article/pii/S0304406821001476)]
 
-2021 ALT Best Student Paper Award: Badih Ghazi, Noah Golowich, Ravi Kumar and Pasin Manurangsi. "Near-tight Closure Bounds for Littlestone and Threshold Dimensions"
+2021 ALT Best Student Paper Award: Badih Ghazi, Noah Golowich, Ravi Kumar and Pasin Manurangsi. "Near-tight Closure Bounds for Littlestone and Threshold Dimensions" [[arxiv](https://arxiv.org/abs/2007.03668)]
 
-2021 WAOA Best Paper Award: Szymon Dudycz, Pasin Manurangsi and Jan Marcinkowski. "Tight Inapproximability of Minimum Maximal Matching on Bipartite Graphs and Related Problems"
+2021 WAOA Best Paper Award: Szymon Dudycz, Pasin Manurangsi and Jan Marcinkowski. "Tight Inapproximability of Minimum Maximal Matching on Bipartite Graphs and Related Problems" [[paper](https://dl.acm.org/doi/10.1007/978-3-030-92702-8_4)]
 
-2021 ASE - ACM Distinguished Paper Award: Chanathip Pornprasit, Chakkrit Tantithamthavorn, Jirayus Jiarpakdee, Michael Fu, and Patanamon Thongtanunam. "PyExplainer: Explaining the Predictions of Just-In-Time Defect Models"
+2021 ASE - ACM Distinguished Paper Award: Chanathip Pornprasit, Chakkrit Tantithamthavorn, Jirayus Jiarpakdee, Michael Fu, and Patanamon Thongtanunam. "PyExplainer: Explaining the Predictions of Just-In-Time Defect Models" [[pdf](https://michaelfu1998-create.github.io/papers/pyexplainer.pdf)] [[paper](https://ieeexplore.ieee.org/document/9678763)]
 
-2021 SANER - Distinguished Paper Award: Jirat Pasuksmit, Patanamon Thongtanunam, and Shanika Karunasekera. "Towards Just-Enough Documentation for Agile Effort Estimation: What Information Should Be Documented?"
+2021 SANER - Distinguished Paper Award: Jirat Pasuksmit, Patanamon Thongtanunam, and Shanika Karunasekera. "Towards Just-Enough Documentation for Agile Effort Estimation: What Information Should Be Documented?" [[arxiv](https://arxiv.org/abs/2107.02420)] [[paper](https://ieeexplore.ieee.org/document/9609208)]
 
 ## 2022
 
