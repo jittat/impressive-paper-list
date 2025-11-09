@@ -7,27 +7,27 @@ If you know of any outstanding papers that should be included, please feel free 
 
 ## 2012
 
-2012 SIGKDD - best paper award: Thanawin Rakthanmanon, Bilson Campana, Abdullah Mueen, Gustavo Batista, Brandon Westover, Qiang Zhu, Jesin Zakaria, Eamonn Keogh. "Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping."  (Also Test of Time Award, SIGKDD 2022)
+2012 SIGKDD - best paper award: Thanawin Rakthanmanon, Bilson Campana, Abdullah Mueen, Gustavo Batista, Brandon Westover, Qiang Zhu, Jesin Zakaria, Eamonn Keogh. "Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping."  (Also Test of Time Award, SIGKDD 2022) [paper](https://dl.acm.org/doi/10.1145/2339530.2339576)
 
-2012 EC - best paper award: Paul Dütting, Felix A. Fischer, Petch Pichayut Jirapinyo John K. Lai, Benjamin Lubin, David C. Parkes. "Payment rules through discriminant-based classifiers"
+2012 EC - best paper award: Paul Dütting, Felix A. Fischer, Petch Pichayut Jirapinyo John K. Lai, Benjamin Lubin, David C. Parkes. "Payment rules through discriminant-based classifiers" [paper](https://arxiv.org/abs/1208.1184)
 
 ## 2013
 
-2013 PODC Doctoral Dissertation Award: Shiri Chechik (Fault-tolerant structures in graphs) and Danupon Nanongkai (Graphs and geometric algorithms on distributed networks and databases).
+2013 PODC Doctoral Dissertation Award: Shiri Chechik (Fault-tolerant structures in graphs) and Danupon Nanongkai (Graphs and geometric algorithms on distributed networks and databases). [news](https://www.podc.org/dissertation/2013-dissertation-award/)
 
-2013 PLDI - distinguished paper awards: Chinawat Isradisaikul, Andrew C. Myers. "Reconciling Exhaustive Pattern Matching with Objects"
+2013 PLDI - distinguished paper awards: Chinawat Isradisaikul, Andrew C. Myers. "Reconciling Exhaustive Pattern Matching with Objects" [paper](https://dl.acm.org/doi/10.1145/2491956.2462194)
 
 ## 2016
 
-2016 Infovis - best paper: Arvind Satyanarayan, Dominik Moritz, Kanit Wongsuphasawat, Jeffrey Heer. "Vega-Lite: A Grammar of Interactive Graphics"
+2016 Infovis - best paper: Arvind Satyanarayan, Dominik Moritz, Kanit Wongsuphasawat, Jeffrey Heer. "Vega-Lite: A Grammar of Interactive Graphics" [pdf](https://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf) [paper](https://dl.acm.org/doi/10.1109/TVCG.2016.2599030)
 
 ## 2017
 
-2017 STOC - best student paper award: Pasin Manurangsi. "Almost-Polynomial Ratio ETH-Hardness of Approximating Densest K-Subgraph"
+2017 STOC - best student paper award: Pasin Manurangsi. "Almost-Polynomial Ratio ETH-Hardness of Approximating Densest K-Subgraph" [arxiv](https://arxiv.org/abs/1611.05991) [paper](https://dl.acm.org/doi/10.1145/3055399.3055412)
 
 2017 VAST - best paper award: Kanit Ham Wongsuphasawat. "TensorFlow Graph Visualizer"
 
-2017 NIPS - best paper award:  Wittawat Jitkrittum, Wenkai Xu , Zoltán Szabó, Kenji Fukumizu, Arthur Gretton. "A Linear-Time Kernel Goodness-of-Fit Test"
+2017 NIPS - best paper award:  Wittawat Jitkrittum, Wenkai Xu , Zoltán Szabó, Kenji Fukumizu, Arthur Gretton. "A Linear-Time Kernel Goodness-of-Fit Test" [arxiv](https://arxiv.org/abs/1705.07673) [pdf](https://proceedings.neurips.cc/paper_files/paper/2017/file/979d472a84804b9f647bc185a877a8b5-Paper.pdf)
 
 ## 2018 
 
