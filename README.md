@@ -72,3 +72,6 @@ If you know of any outstanding papers that should be included, please feel free 
 2025 IROS - Finalist best paper award on robot mechanism and design. Pongsiri Borijindakul, Ali Khaheshi, Theerawath Phetpoon, Hamed Rajabi, Poramate Manoonpong. **A Ribbed Hybrid Rigid-Flexible Tail with Graded Stiffness and Anisotropic Friction for Enhanced Robot Locomotion and Fall Damage Prevention**
 
 2025 TCSE SANER - Most Influential Paper Award: Patanamon Thongtanunam, Chakkrit Tantithamthavorn, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, and Ken-ichi Matsumoto. **"Who should review my code? A file location-based code-reviewer recommendation approach for Modern Code Review"** [[pdf](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/archive/978/978.pdf)] [[paper](https://ieeexplore.ieee.org/document/7081824)]
+
+2025 EMNLP - Senior Area Chair Highlights Award: Tanawan Premsri, Parisa Kordjamshidi. **"FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks"** [[pdf](https://aclanthology.org/2025.emnlp-main.1772.pdf)] [[paper](https://aclanthology.org/2025.emnlp-main.1772/)]
+
