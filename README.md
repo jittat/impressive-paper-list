@@ -17,6 +17,10 @@ If you know of any outstanding papers that should be included, please feel free 
 
 2013 PLDI - distinguished paper awards: Chinawat Isradisaikul, Andrew C. Myers. **"Reconciling Exhaustive Pattern Matching with Objects"** [[paper](https://dl.acm.org/doi/10.1145/2491956.2462194)]
 
+## 2014
+
+2014 STOC - Danupon Nanongkai. **"Distributed Approximation Algorithms for Weighted Shortest Paths"** [[arxiv](https://arxiv.org/abs/1403.5171)] [[paper](https://dl.acm.org/doi/10.1145/2591796.2591850)]
+
 ## 2016
 
 2016 Infovis - best paper: Arvind Satyanarayan, Dominik Moritz, Kanit Wongsuphasawat, Jeffrey Heer. **"Vega-Lite: A Grammar of Interactive Graphics"** [[pdf](https://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf)] [[paper](https://dl.acm.org/doi/10.1109/TVCG.2016.2599030)]
